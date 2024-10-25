@@ -3,3 +3,7 @@ h1{color: rgb(196, 58, 58);
 text-align:center;
 padding: 80px;
 }
+
+.logo{
+    width: 40%;
+}
